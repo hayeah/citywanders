@@ -1,0 +1,75 @@
+#main {
+  width: 600px;
+  border: 1px solid black;
+  margin-left: 3em;
+  margin: 1em;
+  padding: 0.6em;
+  margin: auto;
+}
+
+#main div {
+    width: 100%;
+}
+
+#title h1 {
+  font: italic normal 400% palatino;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+#title p {
+  font: normal 1em palatino;
+  text-align: right;
+  border: 0px solid black;
+  margin-top: -0.5em;
+  padding-right: 5em;
+  margin-bottom: 0;
+}
+
+
+hr {
+ width: 80%;
+}
+
+#divider1 {
+ margin-top: -1em;
+ width: 80%;
+}
+
+#questions {
+ margin-top: 1em;
+ font-size: 2em;
+}
+
+#content {
+  margin-top: 3em;
+  text-align: center;
+}
+.whoami {
+  text-align: center;
+  font-variant: small-caps;
+  font-size: 1.5em;
+  letter-spacing: 5px;
+}
+
+#beyourown {
+  text-align: center;
+  font-style: italic;
+  font-size: 2em;
+  padding-bottom: 0.5em;
+}
+
+#description {
+  text-align: justify;
+  padding: 2em 0 0 0;
+}
+
+#description p {
+  margin: 1em 1em 0 1em;
+  text-indent: 1em;
+  font: italic 1em georgia;
+  width: 30em;
+  margin: auto;
+  padding-bottom: 2em;
+}
